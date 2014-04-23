@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stylophone\MainActivity.cs">
+    <Files>
+      <File FileName="Stylophone\MainActivity.cs" Line="182" Column="81" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Stylophone AndroidDeviceId-Debug="0A3D25950501C015" MonoForAntroid.PreferredDevice="Nexus 4" AndroidDeviceId-Release="0A3D25950501C015" />
+</Properties>
